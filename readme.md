@@ -29,3 +29,17 @@ Make a `brick.config.json` file in root of your project
   "filter": "(file) => file.ext === '.js'"
 }
 ```
+
+## Usage
+
+### Install
+
+```shell
+npm i -D brick
+```
+
+### Use
+
+```shell
+brick build [path]
+```
